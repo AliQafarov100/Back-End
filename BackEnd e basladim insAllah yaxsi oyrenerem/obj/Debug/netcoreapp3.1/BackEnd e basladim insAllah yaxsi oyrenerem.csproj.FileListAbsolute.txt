@@ -1,0 +1,36 @@
+C:\Users\M S I\source\repos\BackEnd e basladim insAllah yaxsi oyrenerem\BackEnd e basladim insAllah yaxsi oyrenerem\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\M S I\source\repos\BackEnd e basladim insAllah yaxsi oyrenerem\BackEnd e basladim insAllah yaxsi oyrenerem\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\M S I\source\repos\BackEnd e basladim insAllah yaxsi oyrenerem\BackEnd e basladim insAllah yaxsi oyrenerem\bin\Debug\netcoreapp3.1\BackEnd e basladim insAllah yaxsi oyrenerem.exe
+C:\Users\M S I\source\repos\BackEnd e basladim insAllah yaxsi oyrenerem\BackEnd e basladim insAllah yaxsi oyrenerem\bin\Debug\netcoreapp3.1\BackEnd e basladim insAllah yaxsi oyrenerem.deps.json
+C:\Users\M S I\source\repos\BackEnd e basladim insAllah yaxsi oyrenerem\BackEnd e basladim insAllah yaxsi oyrenerem\bin\Debug\netcoreapp3.1\BackEnd e basladim insAllah yaxsi oyrenerem.runtimeconfig.json
+C:\Users\M S I\source\repos\BackEnd e basladim insAllah yaxsi oyrenerem\BackEnd e basladim insAllah yaxsi oyrenerem\bin\Debug\netcoreapp3.1\BackEnd e basladim insAllah yaxsi oyrenerem.runtimeconfig.dev.json
+C:\Users\M S I\source\repos\BackEnd e basladim insAllah yaxsi oyrenerem\BackEnd e basladim insAllah yaxsi oyrenerem\bin\Debug\netcoreapp3.1\BackEnd e basladim insAllah yaxsi oyrenerem.dll
+C:\Users\M S I\source\repos\BackEnd e basladim insAllah yaxsi oyrenerem\BackEnd e basladim insAllah yaxsi oyrenerem\bin\Debug\netcoreapp3.1\BackEnd e basladim insAllah yaxsi oyrenerem.pdb
+C:\Users\M S I\source\repos\BackEnd e basladim insAllah yaxsi oyrenerem\BackEnd e basladim insAllah yaxsi oyrenerem\obj\Debug\netcoreapp3.1\BackEnd e basladim insAllah yaxsi oyrenerem.csproj.AssemblyReference.cache
+C:\Users\M S I\source\repos\BackEnd e basladim insAllah yaxsi oyrenerem\BackEnd e basladim insAllah yaxsi oyrenerem\obj\Debug\netcoreapp3.1\BackEnd e basladim insAllah yaxsi oyrenerem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\M S I\source\repos\BackEnd e basladim insAllah yaxsi oyrenerem\BackEnd e basladim insAllah yaxsi oyrenerem\obj\Debug\netcoreapp3.1\BackEnd e basladim insAllah yaxsi oyrenerem.AssemblyInfoInputs.cache
+C:\Users\M S I\source\repos\BackEnd e basladim insAllah yaxsi oyrenerem\BackEnd e basladim insAllah yaxsi oyrenerem\obj\Debug\netcoreapp3.1\BackEnd e basladim insAllah yaxsi oyrenerem.AssemblyInfo.cs
+C:\Users\M S I\source\repos\BackEnd e basladim insAllah yaxsi oyrenerem\BackEnd e basladim insAllah yaxsi oyrenerem\obj\Debug\netcoreapp3.1\BackEnd e basladim insAllah yaxsi oyrenerem.csproj.CoreCompileInputs.cache
+C:\Users\M S I\source\repos\BackEnd e basladim insAllah yaxsi oyrenerem\BackEnd e basladim insAllah yaxsi oyrenerem\obj\Debug\netcoreapp3.1\BackEnd e basladim insAllah yaxsi oyrenerem.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\M S I\source\repos\BackEnd e basladim insAllah yaxsi oyrenerem\BackEnd e basladim insAllah yaxsi oyrenerem\obj\Debug\netcoreapp3.1\staticwebassets\BackEnd e basladim insAllah yaxsi oyrenerem.StaticWebAssets.Manifest.cache
+C:\Users\M S I\source\repos\BackEnd e basladim insAllah yaxsi oyrenerem\BackEnd e basladim insAllah yaxsi oyrenerem\obj\Debug\netcoreapp3.1\staticwebassets\BackEnd e basladim insAllah yaxsi oyrenerem.StaticWebAssets.xml
+C:\Users\M S I\source\repos\BackEnd e basladim insAllah yaxsi oyrenerem\BackEnd e basladim insAllah yaxsi oyrenerem\obj\Debug\netcoreapp3.1\scopedcss\bundle\BackEnd e basladim insAllah yaxsi oyrenerem.styles.css
+C:\Users\M S I\source\repos\BackEnd e basladim insAllah yaxsi oyrenerem\BackEnd e basladim insAllah yaxsi oyrenerem\obj\Debug\netcoreapp3.1\BackEnd e basladim insAllah yaxsi oyrenerem.RazorTargetAssemblyInfo.cache
+C:\Users\M S I\source\repos\BackEnd e basladim insAllah yaxsi oyrenerem\BackEnd e basladim insAllah yaxsi oyrenerem\obj\Debug\netcoreapp3.1\BackEnd e basladim insAllah yaxsi oyrenerem.dll
+C:\Users\M S I\source\repos\BackEnd e basladim insAllah yaxsi oyrenerem\BackEnd e basladim insAllah yaxsi oyrenerem\obj\Debug\netcoreapp3.1\BackEnd e basladim insAllah yaxsi oyrenerem.pdb
+C:\Users\M S I\source\repos\BackEnd e basladim insAllah yaxsi oyrenerem\BackEnd e basladim insAllah yaxsi oyrenerem\obj\Debug\netcoreapp3.1\BackEnd e basladim insAllah yaxsi oyrenerem.genruntimeconfig.cache
+C:\Users\M S I\source\repos\BackEnd e basladim insAllah yaxsi oyrenerem\BackEnd e basladim insAllah yaxsi oyrenerem\bin\Debug\netcoreapp3.1\BackEnd e basladim insAllah yaxsi oyrenerem.Views.dll
+C:\Users\M S I\source\repos\BackEnd e basladim insAllah yaxsi oyrenerem\BackEnd e basladim insAllah yaxsi oyrenerem\bin\Debug\netcoreapp3.1\BackEnd e basladim insAllah yaxsi oyrenerem.Views.pdb
+C:\Users\M S I\source\repos\BackEnd e basladim insAllah yaxsi oyrenerem\BackEnd e basladim insAllah yaxsi oyrenerem\obj\Debug\netcoreapp3.1\BackEnd e basladim insAllah yaxsi oyrenerem.RazorAssemblyInfo.cache
+C:\Users\M S I\source\repos\BackEnd e basladim insAllah yaxsi oyrenerem\BackEnd e basladim insAllah yaxsi oyrenerem\obj\Debug\netcoreapp3.1\BackEnd e basladim insAllah yaxsi oyrenerem.RazorAssemblyInfo.cs
+C:\Users\M S I\source\repos\BackEnd e basladim insAllah yaxsi oyrenerem\BackEnd e basladim insAllah yaxsi oyrenerem\obj\Debug\netcoreapp3.1\BackEnd e basladim insAllah yaxsi oyrenerem.TagHelpers.input.cache
+C:\Users\M S I\source\repos\BackEnd e basladim insAllah yaxsi oyrenerem\BackEnd e basladim insAllah yaxsi oyrenerem\obj\Debug\netcoreapp3.1\BackEnd e basladim insAllah yaxsi oyrenerem.TagHelpers.output.cache
+C:\Users\M S I\source\repos\BackEnd e basladim insAllah yaxsi oyrenerem\BackEnd e basladim insAllah yaxsi oyrenerem\obj\Debug\netcoreapp3.1\BackEnd e basladim insAllah yaxsi oyrenerem.RazorCoreGenerate.cache
+C:\Users\M S I\source\repos\BackEnd e basladim insAllah yaxsi oyrenerem\BackEnd e basladim insAllah yaxsi oyrenerem\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\M S I\source\repos\BackEnd e basladim insAllah yaxsi oyrenerem\BackEnd e basladim insAllah yaxsi oyrenerem\obj\Debug\netcoreapp3.1\BackEnd e basladim insAllah yaxsi oyrenerem.RazorTargetAssemblyInfo.cs
+C:\Users\M S I\source\repos\BackEnd e basladim insAllah yaxsi oyrenerem\BackEnd e basladim insAllah yaxsi oyrenerem\obj\Debug\netcoreapp3.1\BackEnd e basladim insAllah yaxsi oyrenerem.Views.pdb
+C:\Users\M S I\source\repos\BackEnd e basladim insAllah yaxsi oyrenerem\BackEnd e basladim insAllah yaxsi oyrenerem\obj\Debug\netcoreapp3.1\BackEnd e basladim insAllah yaxsi oyrenerem.csproj.CopyComplete
+C:\Users\M S I\source\repos\BackEnd e basladim insAllah yaxsi oyrenerem\BackEnd e basladim insAllah yaxsi oyrenerem\obj\Debug\netcoreapp3.1\Razor\Views\Home\About.cshtml.g.cs
+C:\Users\M S I\source\repos\BackEnd e basladim insAllah yaxsi oyrenerem\BackEnd e basladim insAllah yaxsi oyrenerem\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\M S I\source\repos\BackEnd e basladim insAllah yaxsi oyrenerem\BackEnd e basladim insAllah yaxsi oyrenerem\obj\Debug\netcoreapp3.1\Razor\Views\Home\Contact.cshtml.g.cs
+C:\Users\M S I\source\repos\BackEnd e basladim insAllah yaxsi oyrenerem\BackEnd e basladim insAllah yaxsi oyrenerem\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
